@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Background: Absolute Noir -->
+  <rect width="512" height="512" fill="#000000"/>
+
+  <!-- Geometric Monolith C: Crisp, pure, razor-sharp modernism -->
+  <path d="M 370 140
+           H 230
+           C 165 140, 120 185, 120 256
+           C 120 327, 165 372, 230 372
+           H 370
+           V 312
+           H 236
+           C 198 312, 178 288, 178 256
+           C 178 224, 198 200, 236 200
+           H 370
+           Z"
+        fill="#FFFFFF"/>
+</svg>
+

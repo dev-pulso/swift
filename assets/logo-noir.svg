@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Background: Deep Monolith Noir -->
+  <rect width="512" height="512" fill="#000000"/>
+
+  <!-- Subtle Architectural Luxury Frame -->
+  <rect x="40" y="40" width="432" height="432" fill="none" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1.5"/>
+  <rect x="52" y="52" width="408" height="408" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+
+  <!-- Central Luxury Monogram "C" -->
+  <!-- Designed with high-contrast geometric curves and architectural terminals -->
+  <g fill="#FFFFFF">
+    <path d="M 364 168
+             C 340 134, 304 112, 256 112
+             C 176 112, 116 176, 116 256
+             C 116 336, 176 400, 256 400
+             C 304 400, 340 378, 364 344
+             L 326 318
+             C 308 344, 284 358, 256 358
+             C 200 358, 158 312, 158 256
+             C 158 200, 200 154, 256 154
+             C 284 154, 308 168, 326 194
+             Z" />
+    <!-- Architectural Serif / Accent Terminal Bars -->
+    <rect x="330" y="152" width="42" height="6" />
+    <rect x="330" y="354" width="42" height="6" />
+  </g>
+
+  <!-- Fine Monolith Label -->
+  <text x="256" y="446"
+        text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Inter', sans-serif"
+        font-size="12"
+        font-weight="600"
+        letter-spacing="6"
+        fill="#FFFFFF"
+        fill-opacity="0.6">COMMERCE</text>
+</svg>
+

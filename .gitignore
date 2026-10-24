@@ -1,0 +1,8 @@
+.build/
+.swiftpm/
+xtool/
+*.ipa
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.DS_Store
